@@ -45,7 +45,7 @@
     "ionic-angular": "^3.9.2",
     "ionic-plugin-keyboard": "^2.2.1",
     "ionicons": "4.2.4",
-    "marked": "^0.4.0",
+    "marked": "^0.7.0",
     "rogerthat-plugin": "git+https://github.com/our-city-app/cordova-mobicage-plugin.git#master",
     "rxjs": "^6.2.2",
     "rxjs-compat": "^6.2.2",
